@@ -1,0 +1,9 @@
+node_modules
+.env.example
+.env
+!.env.example
+dist
+
+/src/generated
+config.bat
+.env
