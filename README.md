@@ -119,7 +119,7 @@ Password: 12345678
 ### 1️⃣ Clone repository
 
 ```bash
-git clone https://github.com/MAHIR-DEVES/DeltA-Digivast-Backend
+git clone https://github.com/Dev-Maidul/Delta-Devivast-backend
 cd DeltA-Digivast-Backend
 
 2️⃣ Install dependencies (pnpm)
